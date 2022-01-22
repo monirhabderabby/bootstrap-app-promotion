@@ -32,3 +32,18 @@ body{
 .popins{
     font-family: 'Poppins';
 }
+.stop-writing{
+    height: 100vh;;
+    background-image: url("../img/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: overlay;
+}
+.app{
+    height: 200px;
+}
+footer{
+    height: 30px;
+    background-color: #212529;
+}
